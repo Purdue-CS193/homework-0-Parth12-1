@@ -3,6 +3,7 @@
 # Parth's First CS193 Homework
 - HW self paced
 - Not busy work
+- HW makes sense
 
 # CS 193 Homework 0 - GitHub and Your Own Website!
 
